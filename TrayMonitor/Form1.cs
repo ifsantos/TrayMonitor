@@ -22,6 +22,7 @@ namespace TrayMonitor
   * https://docs.microsoft.com/pt-br/dotnet/csharp/programming-guide/inside-a-program/coding-conventions
   * https://docs.microsoft.com/en-us/windows/win32/cimwin32prov/win32-processor
   * https://docs.microsoft.com/en-us/windows/win32/wmisdk/retrieving-an-instance
+  * https://itnext.io/memory-wise-apps-with-c-net-50b6379ed86
   * 
   */
     public partial class Form1 : Form
